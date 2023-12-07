@@ -1,0 +1,92 @@
+<resources>
+    <string name="app_name">RvApps</string>
+    <string name="judul">judul</string>
+    <string name="description">description</string>
+    <string name="login">Masuk</string>
+    <string name="register">Daftar</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="about">About</string>
+    <string name="author_name">Murni</string>
+    <string name="author_email">murni2023@gmail.com</string>
+    <string name="text_meet_again">Senang Bisa Bertemu Kembali</string>
+    <string name="text_enter_your_account">Masukkan informasi akun Anda untuk memulai kembali</string>
+    <string name="selamat_datang_di_rv_apps">Selamat datang di RV Apps!</string>
+    <string-array name="judul_video">
+        <item>Dilan 1990</item>
+        <item>172 Days</item>
+        <item>Dear Nathan</item>
+        <item>Melo Dylan</item>
+        <item>Terlalu Tampan</item>
+        <item>Mappacci</item>
+        <item>Mariposa</item>
+        <item>Teman Tapi Menikah</item>
+        <item>KKN di Desa Penari</item>
+        <item>Uang Panai</item>
+        <item>Jomblo Fisabilillah</item>
+        <item>Ganjil Genap</item>
+        <item>Budi Pekerti</item>
+        <item>Ketika Berhenti Di Sini</item>
+        <item>Kejar Mimpi</item>
+        <item>Surat Cinta Untuk Strala</item>
+    </string-array>
+    <string-array name="data_dekripsi">
+        <item>Film Dilan 1990 bercerita tentang pertemuan yang dialami oleh dua remaja yang masih sekolah di SMA. Film ini mengangkat sebuah kisah romansa remaja SMA di Bandung yang bernama Dilan (Iqbaal Ramadhan) dan Milea (Vanesha Prescilla).</item>
+        <item>Film 172 Days menceritakan perjalanan cinta seorang perempuan bernama Nadzira Shafa (Yasmin Napper) bersama sang suami Ameer Azzikra (Bryan Domani). Mereka memiliki kehidupan yang berbanding terbalik dan berakhir menyatu dalam sebuah ikatan pernikahan.</item>
+        <item>Dear Nathan menceritakan tentang kisah cinta Nathan dan Salma yang memasuki tahun ketiga. Keduanya telah lulus SMA dan melanjutkan kuliah di kampus yang sama. Namun, hubungan mereka tidak semulus dulu. Nathan dan Salma mulai memiliki perbedaan pendapat dalam hal aktivisme sosial.</item>
+        <item>Melo Dylan menceritakan tentang Melody dan Dylan yang menjadi pemeran utamanya. Melody merupakan murid baru di sekolah Dylan. Ia baru saja pindah karena baru saja putus dengan mantan pacarnya. Masalah itu membuat dirinya sangat terganggu yang membuat Melody mengambil keputusan ini.</item>
+        <item>Film Terlalu Tampan, disutradarai oleh Sabrina Rochelle Kalangie. Film ini sendiri merupakan hasil kerjasama antara Visinema Pictures dengan Kaskus Network. Film ini merupakan hasil adaptasi dari komik Webtoon karya Muhammad Ahmes Avisiena Helvin dan Savenia Melinda.</item>
+        <item>Film Mappacci (Malam Pacar) kian menambah deretan film karya anak bangsa yang mengangkat keindahan budaya Indonesia. Mappacci hadir mengangkat budaya Bugis Makassar yang sarat dengan pesan moril dan jiwa patriotisme, namun dikemas secara humoris. </item>
+        <item>Mariposa bercerita tentang kisah cinta murid SMA antara Acha dan Iqbal yang keduanya berprestasi di sekolah. Acha adalah sosok yang ambisius, sedangkan Iqbal digambarkan sebagai siswa yang cuek dan keras kepala.</item>
+        <item>Teman Tapi Menikah, Semenjak pertama kali bertemu, Ditto (Adipati Dolken) sudah suka setengah mati pada Ayu (Vanesha Prescilla). Bukan karena Ayu adalah seorang artis, tetapi karena Ayu suka bergaya gahar seperti preman. Kocak! Sayangnya selama 11 tahun bersahabat, Ditto selalu gagal keluar dari zona pertemanan. Apa pun usahanya, dari PDKT ke Ayu berkedok nge-band, sampai akhirnya menjadi musisi perkusi profesional, di mata Ayu, Ditto adalah teman makan dan teman curhat semata. Untungnya, kehidupan cinta Ayu yang berliku-liku, sering diselingkuhi sana-sini, memastikan Ditto selalu di dekatnya sebagai tempat curhat langganan. Sampai suatu hari, Ayu bercerita bahwa ia akan menikah dengan pacarnya, seorang pria sempurna luar dan dalam. Ditto harus memilih : menyatakan perasaan atau merelakan cinta pertamanya jadi sahabat seumur hidup. Kalau saja Ayu tidak tahu kelemahan Ditto sebagai pacar : tidak setia. </item>
+        <item>KKN di Desa Penari, Nur, Widya, Ayu, Bima, Anton, dan Wahyu adalah 6 orang mahasiswa yang melaksanakan kuliah kerja nyata (KKN) di sebuah desa terpencil. Namun, mereka sama sekali tidak menyangka bahwa desa yang mereka pilih bukanlah desa biasa. Pak Prabu, sang kepala desa telah memperingatkan mereka untuk tidak melewati batas gapura terlarang. Beberapa hari di desa tersebut, mereka mulai merasakan keanehan. Bima mengalami perubahan sikap dan program KKN mereka akhirnya berantakan.</item>
+        <item>Uang Panai, berkisah mengenai seorang pria bernama Anca (diperankan oleh Ikram Noer) yang kembali ke kampung halamannya di Makassar setelah merantau selama 4 tahun.</item>
+        <item>Jomblo fisabilillah, merupakan film drama komedi romantis, diproduksi oleh Warna Pictures dan merupakan adaptasi dari novel karya penulis best seller Asma Nadia dan Helvy Tiana Rosa. Film ini akan tayang serentak di Bioskop Indonesia mulai 14 September 2023. Skenario film ini ditulis oleh Asma Nadia, Hayati Ayatillah, dan Jastis Arimba. Disutradarai oleh jastis Arimba dengan DOP Moriza Prananda. Diproduseri oleh Helvy Tiana Rosa, Asma Nadia, dan Oki Setiana Dewi </item>
+        <item>Ganjil Genap, Sepasang kekasih yang bernama Gala dan Bara. Mereka telah berpacaran selama 13 tahun yang telah dilewati dengan baik. Sebab, mereka berdua hidup di kota yang sama, yakni Jakarta. Ganjil genap adalah kebijakan baru di Jakarta yang mewarnai perjalanan kisah cinta Bara dan Gala. Hanya saja, ada konflik yang membuat Gala sedih. Bara meninggalkan Gala dan hubungan mereka kandas. Gala yang sudah terbiasa dengan kehadiran Bara sebagai sosok ganjil di hidupnya, mengalami kesedihan yang berkepanjangan. Teman-teman Gala, seperti Aiman turut menemani masa-masa galaunya Gala. Ia harus mencari sosok pengganti ganjil dalam hidupnya.</item>
+        <item>Budi Pekerti, mengisahkan tentang seorang guru BK SMP di Yogyakarta bernama Prani Siswoyo. Cerita bermula ketika Prani sedang merawat suaminya yang diketahui mengalami gangguan jiwa dan membutuhkan perawatan dari seorang psikiater.</item>
+        <item>Ketika Berhenti di Sini, bercerita tentang kehidupan seorang desainer grafis, Anindita Semesta. Dita tidak sengaja bertemu dengan seorang arsitek bernama Edison Kartasasmita dan mulai menjalin hubungan dengannya. Hingga akhirnya tidak terasa jika kisah cinta mereka telah berjalan sampai 4 tahun.</item>
+        <item>Kejar Mimpi, Gaspol yang berkisah seorang single parent dengan segala mimpinya itu di sutradarai oleh Hasto Broto, produser Tyas Abiyogo, penulis Ari Kriting, dan Abdul Arsyad.</item>
+        <item>Surat Cinta Untuk Starl, Hema (Jefri Nichol) adalah seorang cowok yang terobsesi dengan cintanya pada alam yang memiliki keunikan membuat surat cinta untuk alam. Dengan dibantu mesin tik tuanya peninggalan sang kakek mantan jurnalis, Hema membuat mural yang menunjukkan betapa cintanya Reza pada alam ini. Alam adalah satu satunya cinta yang Hema kenal.
+
+Hingga suatu saat Hema mengenal Starla (Caitlin Halderman). Gadis cantik dan mandiri yang selama 6 jam telah berhasil membuatnya jatuh cinta. Untuk pertama kalinya Hema menyadari ada surat cinta yang lebih indah daripada surat cinta untuk alam yaitu surat cinta untuk Starla.</item>
+    </string-array>
+    <array name="video_id">
+        <item>@raw/dilan_1990</item>
+        <item>@raw/satutujuhduadays</item>
+        <item>@raw/dearnathan</item>
+        <item>@raw/melodylan</item>
+        <item>@raw/terlalutampan</item>
+        <item>@raw/mappacci</item>
+        <item>@raw/mariposa</item>
+        <item>@raw/temantapimenikah</item>
+        <item>@drawable/kkn</item>
+        <item>@raw/uangpanai2</item>
+        <item>@raw/jomblofisabilillah</item>
+        <item>@raw/ganjilgenap</item>
+        <item>@raw/budipekerti</item>
+        <item>@raw/ketikaberenti</item>
+        <item>@raw/kejarmimpi</item>
+        <item>@drawable/scus</item>
+    </array>
+
+
+    <integer-array name="data_gambar">
+        <item>@drawable/dilan</item>
+        <item>@drawable/satutujuhduadays</item>
+        <item>@drawable/dearnathan</item>
+        <item>@drawable/melodylan</item>
+        <item>@drawable/terlalutampan</item>
+        <item>@drawable/mappacci</item>
+        <item>@drawable/mariposa</item>
+        <item>@drawable/temantapimenikah</item>
+        <item>@drawable/kkn</item>
+        <item>@drawable/uangpanai</item>
+        <item>@drawable/jomblofisabilillah</item>
+        <item>@drawable/ganjilgenap</item>
+        <item>@drawable/budipekerti</item>
+        <item>@drawable/ketikaberhenti</item>
+        <item>@drawable/kejarmimpi</item>
+        <item>@drawable/scus</item>
+
+    </integer-array>
+</resources>
